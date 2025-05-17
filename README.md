@@ -1,6 +1,7 @@
-
 # 🦙 Text to Math Problem Solver And Data Search Assistant
 
+
+### Deployed on Streamlit : https://text-to-math-problem-solver-assistant-jczeef826zby6p8wbpqzzc.streamlit.app/
 This is a **Streamlit-based web application** that uses **LangChain** and **Groq's Google Gemma 2 model** to assist users with solving mathematical problems and searching data from Wikipedia.
 
 ## 🚀 Features
